@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 navigation: Teaching
+image: '/images/pages/teaching.JPG'
 ---
 Project-Head Student Instructor, **CS189/289A Introduction to Machine Learning**, Fall 2020. <br/>
 Instructor(s): Anant Sahai, Jitendra Malik, Jennifer Listgarten | [Class Homepage](https://www.eecs189.org)
