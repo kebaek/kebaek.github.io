@@ -7,7 +7,7 @@ image: '/images/pages/publications.jpg'
 See [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=en) for full details.<br/>
 <sub> * denotes equal contribution </sub>
 
-(1) **Incremental Learning via Rate Reduction** [\[arxiv\]](arxiv.org/abs/2011.14593) <br/> Z Wu\*, **C Baek**\*, C You, and Y Ma <br/> Under Review at Conference of Computer Vision and Pattern Recognition (**CVPR**) 2021.
+(1) **Incremental Learning via Rate Reduction** [\[arxiv\]](https://arxiv.org/abs/2011.14593) <br/> Z Wu\*, **C Baek**\*, C You, and Y Ma <br/> Under Review at Conference of Computer Vision and Pattern Recognition (**CVPR**) 2021.
 
 (2) **The Landscape of Genetic Content in the Gut and Oral Human Microbiome** [\[paper\]](https://www.sciencedirect.com/science/article/pii/S193131281930352X) <br/> B Tierney, Z Yang, J Luber, M Beaudin, M Wibowo, **C Baek**, C Patel, and A Kostic <br/> **Cell Host and Microbe**, 26(2): 283-295, 2019.
 
