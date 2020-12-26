@@ -14,7 +14,7 @@ Student Instructor, **CS189/289A Introduction to Machine Learning**, Summer 2019
 Instructor(s): Mark Khoury, Brijen Thananjeyan | [Class Homepage](https://www.eecs189.org)
 
 Reader, **CS170 Efficient Algorithms and Intractable Problems**, Fall 2019. <br/>
-Instructors(s): Satish Rao | [Class Homepage](https://cs170.org)
+Instructor(s): Satish Rao | [Class Homepage](https://cs170.org)
 
 Mentor, **CS70 Discrete Mathematics and Probability Theory**, Spring 2018. <br/> (*For UC Berkeley's Computer Science Mentors club*) <br/>
 
