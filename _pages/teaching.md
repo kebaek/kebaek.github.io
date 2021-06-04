@@ -4,6 +4,9 @@ title: Teaching
 navigation: Teaching
 image: '/images/pages/teaching.JPG'
 ---
+Graduate Student Instructor, **CS189/289A Introduction to Machine Learning**, Spring 2021. <br/>
+Instructor(s): Jonathan Shewchuk | [Class Homepage](https://people.eecs.berkeley.edu/~jrs/189/)
+
 Project-Head Student Instructor, **CS189/289A Introduction to Machine Learning**, Fall 2020. <br/>
 Instructor(s): Anant Sahai, Jitendra Malik, Jennifer Listgarten | [Class Homepage](https://www.eecs189.org)
 
@@ -18,4 +21,4 @@ Instructor(s): Satish Rao | [Class Homepage](https://cs170.org)
 
 Mentor, **CS70 Discrete Mathematics and Probability Theory**, Spring 2018. <br/> (*For UC Berkeley's Computer Science Mentors club*) <br/>
 
-<sub> Last updated December 25, 2020 </sub>
+<sub> Last updated June 4, 2020 </sub>
