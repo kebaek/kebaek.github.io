@@ -7,7 +7,7 @@ image: '/images/pages/publications.jpg'
 See [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=en) for full details.<br/>
 <sub> * denotes equal contribution </sub>
 
-- **Assessing Generalization of SGD via Disagreement** [\[arxiv\]](https://arxiv.org/abs/2106.13799) <br/> Yiding Jiang\*, Vaishnavh Nagarajan\*, **Christina Baek**, and J. Zico Kolter
+- **Assessing Generalization of SGD via Disagreement** [\[arxiv\]](https://arxiv.org/abs/2106.13799) <br/> Yiding Jiang\*, Vaishnavh Nagarajan\*, **Christina Baek**, and J. Zico Kolter <br/> Preprint. 2021.
 
 - **Incremental Learning via Rate Reduction** [\[arxiv\]](https://arxiv.org/abs/2011.14593) <br/> Ziyang Wu\*, **Christina Baek**\*, Chong You, and Yi Ma <br/> Conference of Computer Vision and Pattern Recognition (**CVPR**) 2021.
 
