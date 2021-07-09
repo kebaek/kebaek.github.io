@@ -9,6 +9,6 @@ Hi! I am an incoming PhD student in [Machine Learning](https://www.ml.cmu.edu/) 
 I am broadly interested in **theoretical machine learning**, **nonconvex optimization**, and their applications to **genetics and healthcare**. Currently, I am working on designing systems that can correctly extrapolate to out-of-distribution data under the domain generalization and continual learning frameworks. Previously, I've conducted extensive research in molecular biology.
 
 Email: ke.baek (at) berkeley (dot) edu \
-[CV](https://kebaek.github.io/data/Baek_CV.pdf) / [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=en)
+[Publications](https://kebaek.github.io/publications.html)) / [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=en)
 
 <sub>Last updated June 4, 2021 </sub>
