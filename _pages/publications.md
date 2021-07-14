@@ -11,8 +11,8 @@ See [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=e
 
 **Assessing Generalization of SGD via Disagreement** [\[arxiv\]](https://arxiv.org/abs/2106.13799) <br/> Yiding Jiang\*, Vaishnavh Nagarajan\*, **Christina Baek**, and J. Zico Kolter <br/> Preprint. 2021.
 
-**Incremental Learning via Rate Reduction** [\[arxiv\]](https://arxiv.org/abs/2011.14593) <br/> Ziyang Wu\*, **Christina Baek**\*, Chong You, and Yi Ma <br/> Conference of Computer Vision and Pattern Recognition (**CVPR**) 2021.
-International Conference in Machine Learning (**ICML**) Workshop on Theory and Foundation of Continual Learning (Oral presentation) 2021.
+**Incremental Learning via Rate Reduction** [\[arxiv\]](https://arxiv.org/abs/2011.14593) <br/> Ziyang Wu\*, **Christina Baek**\*, Chong You, and Yi Ma <br/> Conference of Computer Vision and Pattern Recognition (**CVPR**) 2021. \\
+International Conference in Machine Learning (**ICML**) Workshop on Theory and Foundation of Continual Learning (*Oral*) 2021.
 
 **The Landscape of Genetic Content in the Gut and Oral Human Microbiome** [\[paper\]](https://www.sciencedirect.com/science/article/pii/S193131281930352X) <br/> Braden Tierney, Zhen Yang, Jacob Luber, Marc Beaudin, Marsha Wibowo, **Christina Baek**, Chirag Patel, and Aleksandar Kostic <br/> **Cell Host and Microbe**, 26(2): 283-295, 2019.
 
