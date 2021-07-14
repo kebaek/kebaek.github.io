@@ -19,7 +19,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=e
 <em> International Conference in Machine Learning (**ICML**) Workshop on Theory and Foundation of Continual Learning (Oral) 2021. </em>
 
 <span style="color:#ea6a05">
-**The Landscape of Genetic Content in the Gut and Oral Human Microbiome** </span> <br/> [\[paper\]](https://www.sciencedirect.com/science/article/pii/S193131281930352X) <br/> Braden Tierney, Zhen Yang, Jacob Luber, Marc Beaudin, Marsha Wibowo, **Christina Baek**, Chirag Patel, and Aleksandar Kostic <br/> <em>**Cell Host and Microbe**, 26(2): 283-295, 2019.</em>
+**The Landscape of Genetic Content in the Gut and Oral Human Microbiome** </span> [\[paper\]](https://www.sciencedirect.com/science/article/pii/S193131281930352X) <br/> Braden Tierney, Zhen Yang, Jacob Luber, Marc Beaudin, Marsha Wibowo, **Christina Baek**, Chirag Patel, and Aleksandar Kostic <br/> <em>**Cell Host and Microbe**, 26(2): 283-295, 2019.</em>
 
 <span style="color:#ea6a05">
 **Ubiquitin specific peptidase 11 (USP11) enhances TGF-b-induced epithelial-mesenchymal plasticity and human breast cancer metastasis** </span>  [\[paper\]](https://pubmed.ncbi.nlm.nih.gov/29724812/) <br/> Daniel Garcia, **Christina Baek**, Monica Estrada, Tiffani Tysl, Eric Bennett, Jing Yang, and John Chang <br/> <em>**Molecular Cancer Research**, 16(7): 1172-1184, 2018.</em>
