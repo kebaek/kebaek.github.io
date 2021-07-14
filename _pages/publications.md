@@ -7,6 +7,8 @@ image: '/images/pages/publications.jpg'
 See [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=en) for full details.<br/>
 <sub> * denotes equal contribution </sub>
 
+hello
+
 <span style="color:orange">
 **Computational Benefits of Intermediate Rewards for Hierarchical Planning**
 </span> [\[arxiv\]](https://arxiv.org/abs/2107.03961) <br/> Yuexiang Zhai, **Christina Baek**, Zhengyuan Zhou, Jiantao Jiao, Yi Ma <br/> *Preprint. 2021.*
