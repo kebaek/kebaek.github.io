@@ -12,7 +12,8 @@ See [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=e
 </span> [\[arxiv\]](https://arxiv.org/abs/2107.03961) <br/> Yuexiang Zhai, **Christina Baek**, Zhengyuan Zhou, Jiantao Jiao, Yi Ma <br/> *Preprint. 2021.*
 
 <span style="color:#ea6a05">
-**Assessing Generalization of SGD via Disagreement** </span> [\[arxiv\]](https://arxiv.org/abs/2106.13799) <br/> Yiding Jiang\*, Vaishnavh Nagarajan\*, **Christina Baek**, and J. Zico Kolter <br/> *Preprint. 2021.*
+**Assessing Generalization of SGD via Disagreement** </span> [\[arxiv\]](https://arxiv.org/abs/2106.13799) <br/> Yiding Jiang\*, Vaishnavh Nagarajan\*, **Christina Baek**, and J. Zico Kolter <br/>
+<em> International Conference in Machine Learning (**ICML**) Workshop on Overparameterization: Pitfalls & Opportunities 2021. </em>
 
 <span style="color:#ea6a05">
 **Incremental Learning via Rate Reduction** </span>  [\[arxiv\]](https://arxiv.org/abs/2011.14593) <br/> Ziyang Wu\*, **Christina Baek**\*, Chong You, and Yi Ma <br/> <em> Conference of Computer Vision and Pattern Recognition (**CVPR**) 2021. </em> \\
