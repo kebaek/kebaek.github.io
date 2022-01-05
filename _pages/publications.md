@@ -9,7 +9,8 @@ See [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=e
 
 <span style="color:#ea6a05">
 **Computational Benefits of Intermediate Rewards for Hierarchical Planning**
-</span> [\[arxiv\]](https://arxiv.org/abs/2107.03961) <br/> Yuexiang Zhai, **Christina Baek**, Zhengyuan Zhou, Jiantao Jiao, Yi Ma <br/> *Preprint. 2021.*
+</span> [\[arxiv\]](https://arxiv.org/abs/2107.03961) <br/> Yuexiang Zhai, **Christina Baek**, Zhengyuan Zhou, Jiantao Jiao, Yi Ma <br/> 
+<em> Journal of Artificial Intelligence Research 2022. </em>
 
 <span style="color:#ea6a05">
 **Assessing Generalization of SGD via Disagreement** </span> [\[arxiv\]](https://arxiv.org/abs/2106.13799) <br/> Yiding Jiang\*, Vaishnavh Nagarajan\*, **Christina Baek**, and J. Zico Kolter <br/>
