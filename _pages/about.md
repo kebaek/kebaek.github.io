@@ -9,6 +9,6 @@ Hi! I am a first-year PhD student in [Machine Learning](https://www.ml.cmu.edu/)
 I am broadly interested in **theoretical machine learning**, **nonconvex optimization**, and their applications to **genetics and healthcare**. 
 
 Email: kbaek@andrew.cmu.edu \
-[Publications](https://kebaek.github.io/publications.html) / [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=en)
+[Publications](https://kebaek.github.io/publications.html) / [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=en) / [CV](https://kebaek.github.io/data/Baek_Resume.pdf)
 
 <sub>Last updated Jan 4, 2021 </sub>
