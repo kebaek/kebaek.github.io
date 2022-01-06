@@ -11,4 +11,4 @@ I am broadly interested in **theoretical machine learning**, **nonconvex optimiz
 Email: kbaek@andrew.cmu.edu \
 [Publications](https://kebaek.github.io/publications.html) / [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=en)
 
-<sub>Last updated Oct 4, 2021 </sub>
+<sub>Last updated Jan 4, 2021 </sub>
