@@ -8,17 +8,22 @@ See [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=e
 <sub> * denotes equal contribution </sub>
 
 <span style="color:#ea6a05">
+**Efficient Maximal Coding Rate Reduction by Variational Forms**
+</span> [\[arxiv\]](https://arxiv.org/abs/2204.00077) <br/> **Christina Baek**, Ziyang Wu, Kwan Ho Ryan Chan, Tianjiao Ding, Yi Ma, Benjamin D. Haeffele <br/> 
+<em> Conference of Computer Vision and Pattern Recognition (**CVPR**) 2022  </em>
+
+<span style="color:#ea6a05">
 **Computational Benefits of Intermediate Rewards for Hierarchical Planning**
 </span> [\[arxiv\]](https://arxiv.org/abs/2107.03961) <br/> Yuexiang Zhai, **Christina Baek**, Zhengyuan Zhou, Jiantao Jiao, Yi Ma <br/> 
 <em> Journal of Artificial Intelligence Research 2022 </em>
 
 <span style="color:#ea6a05">
 **Assessing Generalization of SGD via Disagreement** </span> [\[arxiv\]](https://arxiv.org/abs/2106.13799) <br/> Yiding Jiang\*, Vaishnavh Nagarajan\*, **Christina Baek**, and J. Zico Kolter <br/>
+<em>  International Conference on Learning Representations (**ICLR**) 2022 **(Spotlight)**</em> <br/> 
 <em> International Conference in Machine Learning (**ICML**) Workshop on Overparameterization: Pitfalls & Opportunities 2021 </em> <br/> 
-<em>  International Conference on Learning Representations (**ICLR**) 2022 **(Spotlight)**</em>
 
 <span style="color:#ea6a05">
-**Incremental Learning via Rate Reduction** </span>  [\[arxiv\]](https://arxiv.org/abs/2011.14593) <br/> Ziyang Wu\*, **Christina Baek**\*, Chong You, and Yi Ma <br/> <em> Conference of Computer Vision and Pattern Recognition (**CVPR**) 2021. </em> \\
+**Incremental Learning via Rate Reduction** </span>  [\[arxiv\]](https://arxiv.org/abs/2011.14593) <br/> Ziyang Wu\*, **Christina Baek**\*, Chong You, and Yi Ma <br/> <em> Conference of Computer Vision and Pattern Recognition (**CVPR**) 2021. </em> <br/> 
 <em> International Conference in Machine Learning (**ICML**) Workshop on Theory and Foundation of Continual Learning 2021 **(Oral)** </em>
 
 <span style="color:#ea6a05">
