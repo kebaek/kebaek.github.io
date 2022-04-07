@@ -9,7 +9,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=e
 
 <span style="color:#ea6a05">
 **Efficient Maximal Coding Rate Reduction by Variational Forms**
-</span> [\[arxiv\]](https://arxiv.org/abs/2204.00077) <br/> **Christina Baek**, Ziyang Wu, Kwan Ho Ryan Chan, Tianjiao Ding, Yi Ma, Benjamin D. Haeffele <br/> 
+</span> [\[arxiv\]](https://arxiv.org/abs/2204.00077) <br/> **Christina Baek**\*, Ziyang Wu\*, Kwan Ho Ryan Chan, Tianjiao Ding, Yi Ma, Benjamin D. Haeffele <br/> 
 <em> Conference of Computer Vision and Pattern Recognition (**CVPR**) 2022  </em>
 
 <span style="color:#ea6a05">
