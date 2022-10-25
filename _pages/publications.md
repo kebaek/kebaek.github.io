@@ -9,7 +9,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=e
 
 **<span style="color:#614e43"> Agreement-on-the-line: Predicting the Performance of Neural Networks under Distribution Shift</span>**
 [\[arxiv\]](https://arxiv.org/abs/2206.13089)<br/> **Christina Baek**, Yiding Jiang, Aditi Raghunathan, Zico Kolter <br/> 
-<em> - Neural Information Processing Systems (**NeurIPS**) 2022 <span style="color:#ea6a05">**(Oral)**  </span></em> <br/> </em>
+<em> - Neural Information Processing Systems (**NeurIPS**) 2022 <span style="color:#ea6a05">**(Oral)**  </span></em> <br/>
 <em> - International Conference in Machine Learning (**ICML**) Principles of Distribution Shift Workshop 2022  </em>
 
 **<span style="color:#614e43">Efficient Maximal Coding Rate Reduction by Variational Forms</span>**
