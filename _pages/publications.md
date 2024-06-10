@@ -8,7 +8,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=e
 <sub> * denotes equal contribution </sub>
 
 **<span style="color:#614e43"> Why is SAM Robust to Label Noise?</span>**
-[\[arxiv\]]()<br/> **Christina Baek**, Zico Kolter, Aditi Raghunathan <br/> 
+[\[arxiv\]](https://arxiv.org/abs/2405.03676)<br/> **Christina Baek**, Zico Kolter, Aditi Raghunathan <br/> 
 <em>  - International Conference on Learning Representations (**ICLR**) 2024 </em> <br/>
 <em>  - International Conference in Machine Learning (**ICML**) Spurious correlations, Invariance, and Stability Workshop 2023 <br/>
 
