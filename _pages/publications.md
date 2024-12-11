@@ -11,6 +11,18 @@ See [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=e
 [\[arxiv\]]()<br/> Eungyeup Kim, Mingjie Sun, **Christina Baek**, Aditi Raghunathan, Zico Kolter <br/> 
 <em>  - Under Submission, 2024 <br/> -->
 
+**<span style="color:#614e43">Theory of Agreement-on-the-Line in Linear Models and Gaussian Data</span>**
+[\[arxiv\]]()<br/> **Christina Baek**\*, Aditi Raghunathan, Zico Kolter <br/> 
+<em>  In Submission. <br/>
+
+**<span style="color:#614e43">Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance</span>**
+[\[arxiv\]](https://arxiv.org/abs/2410.10796)<br/> Saching Goyal\*, **Christina Baek**\*, Zico Kolter, Aditi Raghunathan <br/> 
+<em>  In Submission. <br/>
+
+**<span style="color:#614e43">Test-Time Adaptation Induces Stronger Accuracy and Agreement-on-the-Line</span>**
+[\[arxiv\]](https://arxiv.org/abs/2310.04941)<br/> Eungyeup Kim, Mingjie Sun, **Christina Baek**, Aditi Raghunathan, J. Zico Kolter <br/> 
+<em> - Neural Information Processing Systems (**NeurIPS**) 2024 <br/>
+
 **<span style="color:#614e43"> Why is SAM Robust to Label Noise?</span>**
 [\[arxiv\]](https://arxiv.org/abs/2405.03676)<br/> **Christina Baek**, Zico Kolter, Aditi Raghunathan <br/> 
 <em>  - International Conference on Learning Representations (**ICLR**) 2024 </em> <br/>
@@ -25,6 +37,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=e
 [\[arxiv\]](https://openreview.net/forum?id=wMWU5kl21R)<br/> Aman Mehra, Rahul Saxena, Taeyoun Kim, **Christina Baek**, Zico Kolter, Aditi Raghunathan <br/> 
 <em>  - Neural Information Processing Systems (**NeurIPS**) DistShift Workshop 2023 <br/>
 <em>  - Neural Information Processing Systems (**NeurIPS**) R0-FoMo Workshop 2023 <br/>
+<em>  - Neural Information Processing Systems (**NeurIPS**) 2024 <br/>
 
 **<span style="color:#614e43"> Agreement-on-the-line: Predicting the Performance of Neural Networks under Distribution Shift</span>**
 [\[arxiv\]](https://arxiv.org/abs/2206.13089)<br/> **Christina Baek**, Yiding Jiang, Aditi Raghunathan, Zico Kolter <br/> 
