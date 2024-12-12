@@ -7,10 +7,6 @@ image: '/images/pages/publications.jpg'
 See [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=en) for full details.<br/>
 <sub> * denotes equal contribution </sub>
 
-<!-- **<span style="color:#614e43"> Test-Time Adaptation Induces Stronger Accuracy and Agreement-on-the-Line</span>**
-[\[arxiv\]]()<br/> Eungyeup Kim, Mingjie Sun, **Christina Baek**, Aditi Raghunathan, Zico Kolter <br/> 
-<em>  - Under Submission, 2024 <br/> -->
-
 **<span style="color:#614e43">Theory of Agreement-on-the-Line in Linear Models and Gaussian Data</span>**
 [\[arxiv\]]()<br/> **Christina Baek**\*, Aditi Raghunathan, Zico Kolter <br/> 
 <em>  In Submission. <br/>
