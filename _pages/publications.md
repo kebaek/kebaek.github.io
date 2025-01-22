@@ -9,11 +9,11 @@ See [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=e
 
 **<span style="color:#614e43">Theory of Agreement-on-the-Line in Linear Models and Gaussian Data</span>**
 [\[arxiv\]]()<br/> **Christina Baek**\*, Aditi Raghunathan, Zico Kolter <br/> 
-<em>  In Submission. <br/>
+<em>  - Artificial Intelligence and Statistics (**AISTATS**) 2025 </em> <br/>
 
 **<span style="color:#614e43">Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance</span>**
 [\[arxiv\]](https://arxiv.org/abs/2410.10796)<br/> Saching Goyal\*, **Christina Baek**\*, Zico Kolter, Aditi Raghunathan <br/> 
-<em>  In Submission. <br/>
+<em>  - International Conference on Learning Representations (**ICLR**) 2025 </em> <br/>
 
 **<span style="color:#614e43">Test-Time Adaptation Induces Stronger Accuracy and Agreement-on-the-Line</span>**
 [\[arxiv\]](https://arxiv.org/abs/2310.04941)<br/> Eungyeup Kim, Mingjie Sun, **Christina Baek**, Aditi Raghunathan, J. Zico Kolter <br/> 
