@@ -8,7 +8,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=e
 <sub> * denotes equal contribution </sub>
 
 **<span style="color:#614e43">Theory of Agreement-on-the-Line in Linear Models and Gaussian Data</span>**
-[\[arxiv\]]()<br/> **Christina Baek**\*, Aditi Raghunathan, Zico Kolter <br/> 
+[\[arxiv\]]()<br/> **Christina Baek**, Aditi Raghunathan, Zico Kolter <br/> 
 <em> - 2025 Artificial Intelligence and Statistics (**AISTATS**)</em> <br/>
 
 **<span style="color:#614e43">Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance</span>**
