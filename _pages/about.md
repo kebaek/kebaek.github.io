@@ -9,6 +9,6 @@ Hi! I am a fourth-year PhD student in [**Machine Learning**](https://www.ml.cmu.
 I am broadly interested in ML safety and understanding deep learning through scientific methods. My research focuses on understanding the **out-of-distribution robustness and long-tail behaviors** of models. To this end, I have worked on strategies for model assessment under real-world shifts with limited labeled data. Lately, I've been interested in ensuring the **safety of agentic systems** through theory-guided insights for model failures and how they snowball across training, inference, and interaction. 
 
 Email: kbaek@andrew.cmu.edu \
-[Publications](https://kebaek.github.io/publications.html) / [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=en) / [CV](https://kebaek.github.io/data/Baek_Resume.pdf)
+[Publications](https://kebaek.github.io/publications.html) / [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=en) / [CV (Last updated: ](https://kebaek.github.io/data/Baek_Resume.pdf)
 
 <sub>Last updated Jan 22, 2025 </sub>
