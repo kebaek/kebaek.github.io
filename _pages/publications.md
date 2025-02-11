@@ -13,7 +13,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=e
 
 **<span style="color:#614e43">Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance</span>**
 [\[arxiv\]](https://arxiv.org/abs/2410.10796)<br/> Saching Goyal\*, **Christina Baek**\*, Zico Kolter, Aditi Raghunathan <br/> 
-<em>  - 2025 International Conference on Learning Representations (**ICLR**) </em> <br/>
+<em>  - 2025 International Conference on Learning Representations (**ICLR**) <span style="color:#ea6a05">**(Oral)** </span> </em> <br/>
 
 **<span style="color:#614e43">Test-Time Adaptation Induces Stronger Accuracy and Agreement-on-the-Line</span>**
 [\[arxiv\]](https://arxiv.org/abs/2310.04941)<br/> Eungyeup Kim, Mingjie Sun, **Christina Baek**, Aditi Raghunathan, J. Zico Kolter <br/> 
