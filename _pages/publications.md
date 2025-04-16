@@ -9,7 +9,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=e
 
 **<span style="color:#614e43">Weight Ensembling Improves Reasoning in Language Models</span>**
 [\[arxiv\]]()<br/> Xingyu Dang\*, **Christina Baek\***, Kaiyue Wen, Zico Kolter, Aditi Raghunathan <br/> 
-<em> - 2025 Artificial Intelligence and Statistics (**AISTATS**)</em> <br/>
+<em> - 2025 Under Submission </em> <br/>
 
 **<span style="color:#614e43">Theory of Agreement-on-the-Line in Linear Models and Gaussian Data</span>**
 [\[arxiv\]]()<br/> **Christina Baek**, Aditi Raghunathan, Zico Kolter <br/> 
