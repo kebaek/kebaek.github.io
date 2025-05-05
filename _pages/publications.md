@@ -8,11 +8,11 @@ See [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=e
 <sub> * denotes equal contribution </sub>
 
 **<span style="color:#614e43">Weight Ensembling Improves Reasoning in Language Models</span>**
-[\[arxiv\]]()<br/> Xingyu Dang\*, **Christina Baek\***, Kaiyue Wen, Zico Kolter, Aditi Raghunathan <br/> 
+[\[arxiv\]](https://arxiv.org/abs/2504.10478)<br/> Xingyu Dang\*, **Christina Baek\***, Kaiyue Wen, Zico Kolter, Aditi Raghunathan <br/> 
 <em> - 2025 Under Submission </em> <br/>
 
 **<span style="color:#614e43">Theory of Agreement-on-the-Line in Linear Models and Gaussian Data</span>**
-[\[arxiv\]]()<br/> **Christina Baek**, Aditi Raghunathan, Zico Kolter <br/> 
+[\[arxiv\]](https://kebaek.github.io/data/Agreement_theory_AISTATS.pdf)<br/> **Christina Baek**, Aditi Raghunathan, Zico Kolter <br/> 
 <em> - 2025 Artificial Intelligence and Statistics (**AISTATS**)</em> <br/>
 
 **<span style="color:#614e43">Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance</span>**
@@ -71,6 +71,3 @@ See [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=e
 **<span style="color:#614e43">Inhibition of Spontaneous and Experimental Lung Metastasis of Soft-Tissue Sarcoma by Tumor-Targeting Salmonella typhimurium A1-R</span>** 
 [\[pubmed\]](https://pubmed.ncbi.nlm.nih.gov/25528763/)<br/> Shinji Miwa, Yong Zhang, **Kyung-Eun Baek**, Fuminari Uehara, Shuya Yano, Mako Yamamoto, Yukihiko Hiroshima, Yasunori Matsumoto, Hiroaki Kimura, Katsuhiro Hayashi, Norio Yamamoto, Michael Bouvet, Hiroyuki Tsuchiya, Robert Hoffman, and Ming Zhao. <br/> <em> - **Oncotarget**, 5(24): 12849-12861, 2014</em>
 
-
-
-<sub>Last updated Jan 22, 2024 </sub>
